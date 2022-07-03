@@ -1,3 +1,12 @@
+For this challenge I successfully created a random password generator using the criteria listed below via javascript.
+Please refer to the screenshot: Assets/ShawnChang-screenshot-pwdgen.png
+Steps I took:
+-created the variable arrays with the required characters
+-referenced the unique identifiers for elements in the html
+-created the function to generate the password
+-prompt user minimum character requirements, and not allow them to move on if not selected
+-create random password based off # of characters chosen, and used concat to combine the arrayed variables
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
