@@ -1,3 +1,6 @@
+https://shawnchangs.github.io/shawn-chang-pwd-gen/
+https://github.com/shawnchangs/shawn-chang-pwd-gen
+
 For this challenge I successfully created a random password generator using the criteria listed below via javascript.
 Please refer to the screenshot: Assets/ShawnChang-screenshot-pwdgen.png
 Steps I took:
